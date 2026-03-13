@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <product_id>201</product_id>
+        <product_name> wireless mouse </product_name>
+        <category>electronics</category>
+        <price>25.99</price>
+    </product>
+
+    <product>
+        <product_id>202</product_id>
+        <product_name>Office Keyboard</product_name>
+        <category>ELECTRONICS</category>
+        <price>45.50</price>
+    </product>
+
+    <product>
+        <product_id>203</product_id>
+        <product_name>Notebook A5</product_name>
+        <category>stationery</category>
+        <price>5.75</price>
+    </product>
+
+    <product>
+        <product_id>204</product_id>
+        <product_name>Desk Lamp</product_name>
+        <category>Home office</category>
+        <price>18.00</price>
+    </product>
+
+    <product>
+        <product_id>205</product_id>
+        <product_name>Water Bottle</product_name>
+        <category>lifestyle</category>
+        <price>12.40</price>
+    </product>
+
+    <product>
+        <product_id>206</product_id>
+        <product_name>Backpack</product_name>
+        <category>Lifestyle</category>
+        <price>39.99</price>
+    </product>
+
+    <product>
+        <product_id>207</product_id>
+        <product_name>USB-C Cable</product_name>
+        <category> electronics </category>
+        <price>9.99</price>
+    </product>
+
+    <product>
+        <product_id>208</product_id>
+        <product_name>Monitor Stand</product_name>
+        <category>Home Office</category>
+        <price>N/A</price>
+    </product>
+</products>
